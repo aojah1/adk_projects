@@ -1,1 +1,7 @@
+.idea/
+requirements.txt
+.env
 /config/.env
+src/examples/__pycache__
+__pycache__/
+*.pyc

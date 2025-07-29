@@ -5,4 +5,5 @@ langchain-community==0.3.14
 streamlit
 FastAPI
 pdf2image
+langchain_chroma==0.2.4
 rouge_score==0.1.2
